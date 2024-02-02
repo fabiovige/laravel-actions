@@ -29,6 +29,11 @@ jobs:
       - name: Run tests
         run: php artisan test      
 
+      - name: Install NPM Packages
+        run: |
+          npm install
+          npm run production
+
       - name: Hello Github Actions
         run: echo 'funciou...!'
 
