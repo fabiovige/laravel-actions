@@ -1,0 +1,4 @@
+[x] - estrutura inicial
+[x] - Instale as dependencias do projeto
+[] - Encontrar codigo morto na aplicação
+[] - Rodar os testes
